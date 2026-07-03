@@ -1,2 +1,7 @@
-# BJS3
-A native JS serialization library which could serialize almost any JS object and deserialize it with extreme attention to details.
+![BJS logo](./readme/logo.png)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Robin7873/BJS3?color=7400b8)
+![GitHub last commit](https://img.shields.io/github/last-commit/Robin7873/BJS3?color=5390d9)
+![GitHub License](https://img.shields.io/github/license/Robin7873/BJS3?color=4ea8de)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-f7df1e?logo=javascript&logoColor=black)
+![Dependencies](https://img.shields.io/badge/Dependencies-0%20%2F%20None-2cf6b3)
+![Environment](https://img.shields.io/badge/Compatibility-Browser%20%7C%20Node%20%7C%20Runtime-56cfe1)
